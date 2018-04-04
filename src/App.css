@@ -1,0 +1,8 @@
+.App {
+  
+}
+
+.pokemon-background {
+  background: linear-gradient(to bottom right, red, yellow)
+}
+/* reference:  https://www.w3schools.com/css/css3_gradients.asp */
