@@ -6,15 +6,15 @@ import Tabs from 'muicss/lib/react/tabs'
 import Tab from 'muicss/lib/react/tab'
 
 // TABLES
-import PokemonApp from './tables/pokemon-table/PokemonApp'
+import PokemonApp from './tables/pokemon-table-second/PokemonApp'
 
 class MuiTabs extends React.Component {
   onChange (i, value, tab, ev) {
-    // console.log(arguments)
+    console.log(arguments)
   }
 
   onActive (tab) {
-    // console.log(arguments)
+    console.log(arguments)
   }
 
   render () {
